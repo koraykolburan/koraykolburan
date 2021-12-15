@@ -2,10 +2,11 @@
 
 
 - 🌱 I've been working on JS and JS frameworks when I can find the time since for a while.
-- 📫 Connect with me: [<img align="left" alt="koray-kolburan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]  [<img align="left" alt="korayKolburan | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] [<img align="left" alt="korayKolburan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] [<img align="left" alt="korayKolburan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+- 📫 Connect with me: 
+- [<img align="left" alt="koray-kolburan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]  [<img align="left" alt="korayKolburan | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] [<img align="left" alt="korayKolburan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] [<img align="left" alt="korayKolburan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 - 😄 Pronouns: he/him
 - 💬 Ask me about: Html, Css, Bootstrap5 or Guitar hehehe :)
-- <img src="" width="auto">
+- <img src="https://giphy.com/embed/kcfiK948yUHSqoNzwi" width="auto">
 - <iframe src="https://giphy.com/embed/kcfiK948yUHSqoNzwi" width="480" height="400" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Friends-episode-2-season-9-friendstv-kcfiK948yUHSqoNzwi">via GIPHY</a></p>
 
 
