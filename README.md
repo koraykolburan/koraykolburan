@@ -4,7 +4,7 @@
 - 🌱 I've been working on JS and JS frameworks when I can find the time since for a while.
 - 😄 Pronouns: he/him
 - 💬 Ask me about: Html, Css, Bootstrap5 or Guitar hehehe :)
-<hr />
+<hr /> <br />
 ![Alt Text](https://i.giphy.com/media/kcfiK948yUHSqoNzwi/giphy.webp)
 
 ### Language and Tools
