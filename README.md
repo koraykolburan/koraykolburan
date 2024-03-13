@@ -3,7 +3,7 @@
 - 👨🏻‍💻 I'm a Frontend Enthusiast Developer.
 - 🔭 I’m currently working on a workshop with Backbone.js framework.
 - 🌱 I’m currently learning Advanced JavaScript and JS frameworks.
-- 🎸 Out of professional: I am a musician.
+- 🎸 Out of professional life: I am a musician.
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/koray-kolburan/">
