@@ -1,9 +1,12 @@
 ### Hello, I'm Koray Kolburan 👋
 
+## About Me?
+
 - 👨🏻‍💻 I'm a Frontend Enthusiast Developer.
-- 🔭 I’m currently working on a workshop with Backbone.js framework.
-- 🌱 I’m currently learning Advanced JavaScript and JS frameworks.
+- 🕵🏻 I currently work on a workshop with Backbone.js framework.
+- 🌱 I specialize in JavaScript and JS frameworks.
 - 🎸 Out of professional life: I am a musician.
+- 🧠 I'am a Neurodivergent person who has been diagnosed with ADHD.
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/koray-kolburan/">
