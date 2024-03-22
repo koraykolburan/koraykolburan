@@ -23,8 +23,8 @@
 
 ### 🔦 Technologies :
 <div>
-  <img src="https://underscorejs.org/docs/images/underscore.png" title="BackboneJS" alt="BackbonaJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/backbonejs/backbonejs-original-wordmark.svg" title="BackboneJS" alt="BackbonaJS" width="40" height="40"/>&nbsp;
+  <img src="https://underscorejs.org/docs/images/underscore.png" title="BackboneJS" alt="UNDERSCOREJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/backbonejs/backbonejs-original-wordmark.svg" title="BackboneJS" alt="BackboneJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" title="jQuery" alt="jQuery" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/json/json-original.svg" title="JSON" alt="JSON" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"  title="SASS" alt="SASS" width="40" height="40"/>&nbsp;
