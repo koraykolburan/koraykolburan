@@ -3,8 +3,7 @@
 ## About Me?
 
 - 👨🏻‍💻 I'm a Frontend Enthusiast Developer.
-- 🕵🏻  I currently learn testing and work with JavaScript.
-- 🌱 I learn JavaScript and JS frameworks.
+- 🕵🏻  I currently learn/work JavaScript and JS frameworks.
 - 🎸 Out of professional life: I am a musician.
 - 🧠 I'am a Neurodivergent person who has been diagnosed with ADHD.
 
