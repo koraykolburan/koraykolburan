@@ -1,12 +1,5 @@
 ### Hello, I'm Koray Kolburan 👋
 
-## About Me?
-
-- 👨🏻‍💻 I'm a Frontend Enthusiast Developer.
-- 🕵🏻  I currently learn/work React JS and JS other frameworks.
-- 🎸 Out of professional life: I am a musician.
-- 🧠 I'am a Neurodivergent person who has been diagnosed with ADHD.
-
 <div id="badges">
   <a href="https://www.linkedin.com/in/koray-kolburan/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
